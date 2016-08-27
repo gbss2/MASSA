@@ -1,0 +1,11 @@
+PolymorphismId(1)	PolymorphismType(2)	GeneSymbol(3)	GeneId(4)	TranscriptRegion(5)	NucleotideNumberingCodingDNA(6)	Chromosome(7)	ChromosomePosition(8)	AncestralAllele(9)	Orientation(10)	AssemblyBuildVersion(11)	AssemblyCoordStart(12)	AssemblyCoordEnd(13)	mRNAaccession(14)	mRNAversion(15)	Alleles(16)	Frequency(17)
+rs117814200	snp	null	null	null	null	16	48878325	C,C,C,C,C	fwd	GRCh38.p2	2497643	2497643	null	null	A	0.0042
+rs182766283	snp	null	null	null	null	16	48878387	T,T,T	fwd	GRCh38.p2	2497705	2497705	null	null	null	null
+rs7184126	snp	null	null	null	null	16	48878489	C,C,C,C,C,C	fwd	GRCh38.p2	2497807	2497807	null	null	T	0.001
+rs150257707	snp	null	null	null	null	16	48878431	A,A,A	fwd	GRCh38.p2	2497749	2497749	null	null	G	0.0056
+rs192757857	snp	null	null	null	null	16	48878379	C,C,C	fwd	GRCh38.p2	2497697	2497697	null	null	G	0.0018
+rs138879878	snp	null	null	null	null	16	48878637	G,G,G	fwd	GRCh38.p2	2497955	2497955	null	null	A	0.0006
+rs142076916	snp	null	null	null	null	16	48878821	T,T,T	fwd	GRCh38.p2	2498139	2498139	null	null	G	0.0002
+rs187478718	snp	null	null	null	null	16	48879006	T,T,T	fwd	GRCh38.p2	2498324	2498324	null	null	A	0.0002
+rs2111127	snp	null	null	null	null	16	48878941	G,G,G,G,G,G	fwd	GRCh38.p2	2498259	2498259	null	null	A	0.0325
+rs2160492	snp	null	null	null	null	16	48878784	A,A,A,A,A,A	fwd	GRCh38.p2	2498102	2498102	null	null	T	0.4671

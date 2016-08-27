@@ -1,0 +1,28 @@
+LOG FILE FOR MAS ANNOTATION SYSTEM
+----------------------------------
+Date and time: 28/7/2016 at 2:57:283
+Data file: snp_list
+SNPs in file:10
+SNPs annotated:10
+Execution time: 13 seconds
+
+DATA PROVENANCE
+---------------
+Attribute 	 Source 	 Version
+Alleles	dbsnp	online
+mRNA version	dbsnp	online
+Polymorphism Type	dbsnp	online
+Gene ID	dbsnp	online
+Assembly Coord End	dbsnp	online
+Polymorphism Id	dbsnp	online
+Gene Symbol	dbsnp	online
+mRNA accession	dbsnp	online
+Ancestral Allele	dbsnp	online
+Nucleotide Numbering coding DNA	dbsnp	online
+Orientation	dbsnp	online
+Transcript Region	dbsnp	online
+Frequency	dbsnp	online
+Assembly Coord Start	dbsnp	online
+Assembly Build Version	dbsnp	online
+Chromosome	dbsnp	online
+Chromosome Position	dbsnp	online
