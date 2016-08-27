@@ -1,0 +1,3 @@
+analysis=2
+datafile=snp_list
+pquery=2
